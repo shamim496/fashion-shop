@@ -1,0 +1,10 @@
+# Build output
+*.exe
+*.o
+*.obj
+bin/
+obj/
+
+# Code::Blocks per-user files
+*.depend
+*.layout
